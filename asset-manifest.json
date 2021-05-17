@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Words-Task/static/css/main.13f859b4.chunk.css",
-    "main.js": "/Words-Task/static/js/main.7e423c42.chunk.js",
-    "main.js.map": "/Words-Task/static/js/main.7e423c42.chunk.js.map",
+    "main.js": "/Words-Task/static/js/main.a6eff196.chunk.js",
+    "main.js.map": "/Words-Task/static/js/main.a6eff196.chunk.js.map",
     "runtime-main.js": "/Words-Task/static/js/runtime-main.c4517362.js",
     "runtime-main.js.map": "/Words-Task/static/js/runtime-main.c4517362.js.map",
     "static/js/2.043f198f.chunk.js": "/Words-Task/static/js/2.043f198f.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.c4517362.js",
     "static/js/2.043f198f.chunk.js",
     "static/css/main.13f859b4.chunk.css",
-    "static/js/main.7e423c42.chunk.js"
+    "static/js/main.a6eff196.chunk.js"
   ]
 }
